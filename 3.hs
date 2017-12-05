@@ -27,3 +27,5 @@ y n =  abs $ case side n of
 
 answer n = distanceCenter (x n', y n')
     where n' = n - 1
+
+-- 3b gjord genom manuell räkning. Inte snyggt, men funkar.
